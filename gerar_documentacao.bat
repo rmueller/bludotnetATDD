@@ -1,0 +1,1 @@
+powershell.exe -NoProfile -ExecutionPolicy unrestricted -Command "& { .\generate_docs.ps1 }" 
